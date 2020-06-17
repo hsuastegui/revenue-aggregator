@@ -1,0 +1,3903 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders table that is sorted ascending 1`] = `
+<table>
+  <thead>
+    <tr>
+      <th
+        className="left"
+      >
+        Product
+      </th>
+      <th
+        className="right"
+      >
+        Units sold
+      </th>
+      <th
+        className="right"
+      >
+        Revenue
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <Row
+      item={
+        Object {
+          "id": "082",
+          "name": "Alfalfa Sprouts",
+          "revenue": 12486.739999999998,
+          "sold": 1106,
+        }
+      }
+      key="082"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Alfalfa Sprouts
+        </td>
+        <td
+          className="right"
+        >
+          1,106
+        </td>
+        <td
+          className="right"
+        >
+          12,486.74
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "027",
+          "name": "Apple",
+          "revenue": 14832.720000000001,
+          "sold": 1512,
+        }
+      }
+      key="027"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Apple
+        </td>
+        <td
+          className="right"
+        >
+          1,512
+        </td>
+        <td
+          className="right"
+        >
+          14,832.72
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "048",
+          "name": "Apricot",
+          "revenue": 20647.260000000002,
+          "sold": 1506,
+        }
+      }
+      key="048"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Apricot
+        </td>
+        <td
+          className="right"
+        >
+          1,506
+        </td>
+        <td
+          className="right"
+        >
+          20,647.26
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "068",
+          "name": "Artichoke",
+          "revenue": 4849.95,
+          "sold": 651,
+        }
+      }
+      key="068"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Artichoke
+        </td>
+        <td
+          className="right"
+        >
+          651
+        </td>
+        <td
+          className="right"
+        >
+          4,849.95
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "110",
+          "name": "Asian Pear",
+          "revenue": 11601.45,
+          "sold": 1905,
+        }
+      }
+      key="110"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Asian Pear
+        </td>
+        <td
+          className="right"
+        >
+          1,905
+        </td>
+        <td
+          className="right"
+        >
+          11,601.45
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "070",
+          "name": "Asparagus",
+          "revenue": 20105.02,
+          "sold": 1378,
+        }
+      }
+      key="070"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Asparagus
+        </td>
+        <td
+          className="right"
+        >
+          1,378
+        </td>
+        <td
+          className="right"
+        >
+          20,105.02
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "041",
+          "name": "Atemoya",
+          "revenue": 11160.6,
+          "sold": 2090,
+        }
+      }
+      key="041"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Atemoya
+        </td>
+        <td
+          className="right"
+        >
+          2,090
+        </td>
+        <td
+          className="right"
+        >
+          11,160.60
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "013",
+          "name": "Avocado",
+          "revenue": 8842.5,
+          "sold": 1179,
+        }
+      }
+      key="013"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Avocado
+        </td>
+        <td
+          className="right"
+        >
+          1,179
+        </td>
+        <td
+          className="right"
+        >
+          8,842.50
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "054",
+          "name": "Bamboo Shoots",
+          "revenue": 11289.6,
+          "sold": 1280,
+        }
+      }
+      key="054"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Bamboo Shoots
+        </td>
+        <td
+          className="right"
+        >
+          1,280
+        </td>
+        <td
+          className="right"
+        >
+          11,289.60
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "067",
+          "name": "Banana",
+          "revenue": 10872.52,
+          "sold": 1003,
+        }
+      }
+      key="067"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Banana
+        </td>
+        <td
+          className="right"
+        >
+          1,003
+        </td>
+        <td
+          className="right"
+        >
+          10,872.52
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "120",
+          "name": "Bean Sprouts",
+          "revenue": 16626.559999999998,
+          "sold": 1252,
+        }
+      }
+      key="120"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Bean Sprouts
+        </td>
+        <td
+          className="right"
+        >
+          1,252
+        </td>
+        <td
+          className="right"
+        >
+          16,626.56
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "107",
+          "name": "Beans",
+          "revenue": 21774.33,
+          "sold": 1541,
+        }
+      }
+      key="107"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Beans
+        </td>
+        <td
+          className="right"
+        >
+          1,541
+        </td>
+        <td
+          className="right"
+        >
+          21,774.33
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "111",
+          "name": "Beets",
+          "revenue": 25521,
+          "sold": 1810,
+        }
+      }
+      key="111"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Beets
+        </td>
+        <td
+          className="right"
+        >
+          1,810
+        </td>
+        <td
+          className="right"
+        >
+          25,521.00
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "034",
+          "name": "Belgian Endive",
+          "revenue": 14682.8,
+          "sold": 2585,
+        }
+      }
+      key="034"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Belgian Endive
+        </td>
+        <td
+          className="right"
+        >
+          2,585
+        </td>
+        <td
+          className="right"
+        >
+          14,682.80
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "129",
+          "name": "Bell Peppers",
+          "revenue": 24284.16,
+          "sold": 1984,
+        }
+      }
+      key="129"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Bell Peppers
+        </td>
+        <td
+          className="right"
+        >
+          1,984
+        </td>
+        <td
+          className="right"
+        >
+          24,284.16
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "020",
+          "name": "Bitter Melon",
+          "revenue": 17095.69,
+          "sold": 1433,
+        }
+      }
+      key="020"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Bitter Melon
+        </td>
+        <td
+          className="right"
+        >
+          1,433
+        </td>
+        <td
+          className="right"
+        >
+          17,095.69
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "083",
+          "name": "Blackberries",
+          "revenue": 28646.27,
+          "sold": 2111,
+        }
+      }
+      key="083"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Blackberries
+        </td>
+        <td
+          className="right"
+        >
+          2,111
+        </td>
+        <td
+          className="right"
+        >
+          28,646.27
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "035",
+          "name": "Blueberries",
+          "revenue": 12556.699999999999,
+          "sold": 1486,
+        }
+      }
+      key="035"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Blueberries
+        </td>
+        <td
+          className="right"
+        >
+          1,486
+        </td>
+        <td
+          className="right"
+        >
+          12,556.70
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "000",
+          "name": "Bok Choy",
+          "revenue": 20254.18,
+          "sold": 1486,
+        }
+      }
+      key="000"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Bok Choy
+        </td>
+        <td
+          className="right"
+        >
+          1,486
+        </td>
+        <td
+          className="right"
+        >
+          20,254.18
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "001",
+          "name": "Boniato",
+          "revenue": 9098.32,
+          "sold": 844,
+        }
+      }
+      key="001"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Boniato
+        </td>
+        <td
+          className="right"
+        >
+          844
+        </td>
+        <td
+          className="right"
+        >
+          9,098.32
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "059",
+          "name": "Boysenberries",
+          "revenue": 12843.36,
+          "sold": 991,
+        }
+      }
+      key="059"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Boysenberries
+        </td>
+        <td
+          className="right"
+        >
+          991
+        </td>
+        <td
+          className="right"
+        >
+          12,843.36
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "073",
+          "name": "Broccoflower",
+          "revenue": 33651.200000000004,
+          "sold": 2390,
+        }
+      }
+      key="073"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Broccoflower
+        </td>
+        <td
+          className="right"
+        >
+          2,390
+        </td>
+        <td
+          className="right"
+        >
+          33,651.20
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "062",
+          "name": "Broccoli",
+          "revenue": 19440.300000000003,
+          "sold": 2055,
+        }
+      }
+      key="062"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Broccoli
+        </td>
+        <td
+          className="right"
+        >
+          2,055
+        </td>
+        <td
+          className="right"
+        >
+          19,440.30
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "060",
+          "name": "Brussels Sprouts",
+          "revenue": 3769.6799999999994,
+          "sold": 678,
+        }
+      }
+      key="060"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Brussels Sprouts
+        </td>
+        <td
+          className="right"
+        >
+          678
+        </td>
+        <td
+          className="right"
+        >
+          3,769.68
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "080",
+          "name": "Cabbage",
+          "revenue": 11514,
+          "sold": 2020,
+        }
+      }
+      key="080"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Cabbage
+        </td>
+        <td
+          className="right"
+        >
+          2,020
+        </td>
+        <td
+          className="right"
+        >
+          11,514.00
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "039",
+          "name": "Cactus Pear",
+          "revenue": 21227.68,
+          "sold": 1466,
+        }
+      }
+      key="039"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Cactus Pear
+        </td>
+        <td
+          className="right"
+        >
+          1,466
+        </td>
+        <td
+          className="right"
+        >
+          21,227.68
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "105",
+          "name": "Cantaloupe",
+          "revenue": 14853.96,
+          "sold": 1364,
+        }
+      }
+      key="105"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Cantaloupe
+        </td>
+        <td
+          className="right"
+        >
+          1,364
+        </td>
+        <td
+          className="right"
+        >
+          14,853.96
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "010",
+          "name": "Carambola",
+          "revenue": 9796.99,
+          "sold": 1211,
+        }
+      }
+      key="010"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Carambola
+        </td>
+        <td
+          className="right"
+        >
+          1,211
+        </td>
+        <td
+          className="right"
+        >
+          9,796.99
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "119",
+          "name": "Carrots",
+          "revenue": 29493.04,
+          "sold": 2131,
+        }
+      }
+      key="119"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Carrots
+        </td>
+        <td
+          className="right"
+        >
+          2,131
+        </td>
+        <td
+          className="right"
+        >
+          29,493.04
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "003",
+          "name": "Casaba Melon",
+          "revenue": 6220.17,
+          "sold": 927,
+        }
+      }
+      key="003"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Casaba Melon
+        </td>
+        <td
+          className="right"
+        >
+          927
+        </td>
+        <td
+          className="right"
+        >
+          6,220.17
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "056",
+          "name": "Cauliflower",
+          "revenue": 10843.26,
+          "sold": 1423,
+        }
+      }
+      key="056"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Cauliflower
+        </td>
+        <td
+          className="right"
+        >
+          1,423
+        </td>
+        <td
+          className="right"
+        >
+          10,843.26
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "008",
+          "name": "Celery",
+          "revenue": 9718.220000000001,
+          "sold": 1717,
+        }
+      }
+      key="008"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Celery
+        </td>
+        <td
+          className="right"
+        >
+          1,717
+        </td>
+        <td
+          className="right"
+        >
+          9,718.22
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "077",
+          "name": "Chayote",
+          "revenue": 20305.760000000002,
+          "sold": 1418,
+        }
+      }
+      key="077"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Chayote
+        </td>
+        <td
+          className="right"
+        >
+          1,418
+        </td>
+        <td
+          className="right"
+        >
+          20,305.76
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "066",
+          "name": "Cherimoya",
+          "revenue": 15324.21,
+          "sold": 2019,
+        }
+      }
+      key="066"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Cherimoya
+        </td>
+        <td
+          className="right"
+        >
+          2,019
+        </td>
+        <td
+          className="right"
+        >
+          15,324.21
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "100",
+          "name": "Cherries",
+          "revenue": 7505.74,
+          "sold": 1199,
+        }
+      }
+      key="100"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Cherries
+        </td>
+        <td
+          className="right"
+        >
+          1,199
+        </td>
+        <td
+          className="right"
+        >
+          7,505.74
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "131",
+          "name": "Coconuts",
+          "revenue": 9075.53,
+          "sold": 1373,
+        }
+      }
+      key="131"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Coconuts
+        </td>
+        <td
+          className="right"
+        >
+          1,373
+        </td>
+        <td
+          className="right"
+        >
+          9,075.53
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "030",
+          "name": "Collard Greens",
+          "revenue": 16758.559999999998,
+          "sold": 1456,
+        }
+      }
+      key="030"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Collard Greens
+        </td>
+        <td
+          className="right"
+        >
+          1,456
+        </td>
+        <td
+          className="right"
+        >
+          16,758.56
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "015",
+          "name": "Corn",
+          "revenue": 9437.04,
+          "sold": 1224,
+        }
+      }
+      key="015"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Corn
+        </td>
+        <td
+          className="right"
+        >
+          1,224
+        </td>
+        <td
+          className="right"
+        >
+          9,437.04
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "058",
+          "name": "Cranberries",
+          "revenue": 28912.940000000002,
+          "sold": 2534,
+        }
+      }
+      key="058"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Cranberries
+        </td>
+        <td
+          className="right"
+        >
+          2,534
+        </td>
+        <td
+          className="right"
+        >
+          28,912.94
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "101",
+          "name": "Cucumber",
+          "revenue": 12106.82,
+          "sold": 974,
+        }
+      }
+      key="101"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Cucumber
+        </td>
+        <td
+          className="right"
+        >
+          974
+        </td>
+        <td
+          className="right"
+        >
+          12,106.82
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "117",
+          "name": "Dates",
+          "revenue": 18813.600000000002,
+          "sold": 1404,
+        }
+      }
+      key="117"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Dates
+        </td>
+        <td
+          className="right"
+        >
+          1,404
+        </td>
+        <td
+          className="right"
+        >
+          18,813.60
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "019",
+          "name": "Dried Plums",
+          "revenue": 10022.3,
+          "sold": 1643,
+        }
+      }
+      key="019"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Dried Plums
+        </td>
+        <td
+          className="right"
+        >
+          1,643
+        </td>
+        <td
+          className="right"
+        >
+          10,022.30
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "005",
+          "name": "Eggplant",
+          "revenue": 10173.6,
+          "sold": 1256,
+        }
+      }
+      key="005"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Eggplant
+        </td>
+        <td
+          className="right"
+        >
+          1,256
+        </td>
+        <td
+          className="right"
+        >
+          10,173.60
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "009",
+          "name": "Endive",
+          "revenue": 15671.01,
+          "sold": 1083,
+        }
+      }
+      key="009"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Endive
+        </td>
+        <td
+          className="right"
+        >
+          1,083
+        </td>
+        <td
+          className="right"
+        >
+          15,671.01
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "032",
+          "name": "Escarole",
+          "revenue": 8443.369999999999,
+          "sold": 1391,
+        }
+      }
+      key="032"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Escarole
+        </td>
+        <td
+          className="right"
+        >
+          1,391
+        </td>
+        <td
+          className="right"
+        >
+          8,443.37
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "109",
+          "name": "Feijoa",
+          "revenue": 12015.94,
+          "sold": 2006,
+        }
+      }
+      key="109"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Feijoa
+        </td>
+        <td
+          className="right"
+        >
+          2,006
+        </td>
+        <td
+          className="right"
+        >
+          12,015.94
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "103",
+          "name": "Fennel",
+          "revenue": 12870.7,
+          "sold": 1130,
+        }
+      }
+      key="103"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Fennel
+        </td>
+        <td
+          className="right"
+        >
+          1,130
+        </td>
+        <td
+          className="right"
+        >
+          12,870.70
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "074",
+          "name": "Figs",
+          "revenue": 14169.36,
+          "sold": 1032,
+        }
+      }
+      key="074"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Figs
+        </td>
+        <td
+          className="right"
+        >
+          1,032
+        </td>
+        <td
+          className="right"
+        >
+          14,169.36
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "122",
+          "name": "Garlic",
+          "revenue": 16872.960000000003,
+          "sold": 1664,
+        }
+      }
+      key="122"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Garlic
+        </td>
+        <td
+          className="right"
+        >
+          1,664
+        </td>
+        <td
+          className="right"
+        >
+          16,872.96
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "099",
+          "name": "Gooseberries",
+          "revenue": 2980.52,
+          "sold": 554,
+        }
+      }
+      key="099"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Gooseberries
+        </td>
+        <td
+          className="right"
+        >
+          554
+        </td>
+        <td
+          className="right"
+        >
+          2,980.52
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "116",
+          "name": "Grapefruit",
+          "revenue": 20697.72,
+          "sold": 2076,
+        }
+      }
+      key="116"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Grapefruit
+        </td>
+        <td
+          className="right"
+        >
+          2,076
+        </td>
+        <td
+          className="right"
+        >
+          20,697.72
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "021",
+          "name": "Grapes",
+          "revenue": 26356.69,
+          "sold": 1847,
+        }
+      }
+      key="021"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Grapes
+        </td>
+        <td
+          className="right"
+        >
+          1,847
+        </td>
+        <td
+          className="right"
+        >
+          26,356.69
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "002",
+          "name": "Green Beans",
+          "revenue": 11531.14,
+          "sold": 1571,
+        }
+      }
+      key="002"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Green Beans
+        </td>
+        <td
+          className="right"
+        >
+          1,571
+        </td>
+        <td
+          className="right"
+        >
+          11,531.14
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "031",
+          "name": "Green Onions",
+          "revenue": 15536.9,
+          "sold": 2510,
+        }
+      }
+      key="031"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Green Onions
+        </td>
+        <td
+          className="right"
+        >
+          2,510
+        </td>
+        <td
+          className="right"
+        >
+          15,536.90
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "123",
+          "name": "Greens",
+          "revenue": 11121.9,
+          "sold": 1698,
+        }
+      }
+      key="123"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Greens
+        </td>
+        <td
+          className="right"
+        >
+          1,698
+        </td>
+        <td
+          className="right"
+        >
+          11,121.90
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "069",
+          "name": "Guava",
+          "revenue": 28212.449999999997,
+          "sold": 2037,
+        }
+      }
+      key="069"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Guava
+        </td>
+        <td
+          className="right"
+        >
+          2,037
+        </td>
+        <td
+          className="right"
+        >
+          28,212.45
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "098",
+          "name": "Hominy",
+          "revenue": 9083.96,
+          "sold": 1189,
+        }
+      }
+      key="098"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Hominy
+        </td>
+        <td
+          className="right"
+        >
+          1,189
+        </td>
+        <td
+          className="right"
+        >
+          9,083.96
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "096",
+          "name": "Honeydew Melon",
+          "revenue": 10559.43,
+          "sold": 1359,
+        }
+      }
+      key="096"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Honeydew Melon
+        </td>
+        <td
+          className="right"
+        >
+          1,359
+        </td>
+        <td
+          className="right"
+        >
+          10,559.43
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "092",
+          "name": "Horned Melon",
+          "revenue": 6569.639999999999,
+          "sold": 756,
+        }
+      }
+      key="092"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Horned Melon
+        </td>
+        <td
+          className="right"
+        >
+          756
+        </td>
+        <td
+          className="right"
+        >
+          6,569.64
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "004",
+          "name": "Iceberg Lettuce",
+          "revenue": 21069.78,
+          "sold": 1622,
+        }
+      }
+      key="004"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Iceberg Lettuce
+        </td>
+        <td
+          className="right"
+        >
+          1,622
+        </td>
+        <td
+          className="right"
+        >
+          21,069.78
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "022",
+          "name": "Jerusalem Artichoke",
+          "revenue": 28203,
+          "sold": 1975,
+        }
+      }
+      key="022"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Jerusalem Artichoke
+        </td>
+        <td
+          className="right"
+        >
+          1,975
+        </td>
+        <td
+          className="right"
+        >
+          28,203.00
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "007",
+          "name": "Jicama",
+          "revenue": 13444.2,
+          "sold": 2134,
+        }
+      }
+      key="007"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Jicama
+        </td>
+        <td
+          className="right"
+        >
+          2,134
+        </td>
+        <td
+          className="right"
+        >
+          13,444.20
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "114",
+          "name": "Kale",
+          "revenue": 8933.759999999998,
+          "sold": 1188,
+        }
+      }
+      key="114"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Kale
+        </td>
+        <td
+          className="right"
+        >
+          1,188
+        </td>
+        <td
+          className="right"
+        >
+          8,933.76
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "025",
+          "name": "Kiwifruit",
+          "revenue": 33122.600000000006,
+          "sold": 2807,
+        }
+      }
+      key="025"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Kiwifruit
+        </td>
+        <td
+          className="right"
+        >
+          2,807
+        </td>
+        <td
+          className="right"
+        >
+          33,122.60
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "033",
+          "name": "Kohlrabi",
+          "revenue": 21898.89,
+          "sold": 1989,
+        }
+      }
+      key="033"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Kohlrabi
+        </td>
+        <td
+          className="right"
+        >
+          1,989
+        </td>
+        <td
+          className="right"
+        >
+          21,898.89
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "036",
+          "name": "Kumquat",
+          "revenue": 13267.92,
+          "sold": 937,
+        }
+      }
+      key="036"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Kumquat
+        </td>
+        <td
+          className="right"
+        >
+          937
+        </td>
+        <td
+          className="right"
+        >
+          13,267.92
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "028",
+          "name": "Leeks",
+          "revenue": 7269.34,
+          "sold": 766,
+        }
+      }
+      key="028"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Leeks
+        </td>
+        <td
+          className="right"
+        >
+          766
+        </td>
+        <td
+          className="right"
+        >
+          7,269.34
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "126",
+          "name": "Lemons",
+          "revenue": 17755.07,
+          "sold": 2719,
+        }
+      }
+      key="126"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Lemons
+        </td>
+        <td
+          className="right"
+        >
+          2,719
+        </td>
+        <td
+          className="right"
+        >
+          17,755.07
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "071",
+          "name": "Lettuce",
+          "revenue": 10037.56,
+          "sold": 1261,
+        }
+      }
+      key="071"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Lettuce
+        </td>
+        <td
+          className="right"
+        >
+          1,261
+        </td>
+        <td
+          className="right"
+        >
+          10,037.56
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "084",
+          "name": "Lima Beans",
+          "revenue": 3670.68,
+          "sold": 676,
+        }
+      }
+      key="084"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Lima Beans
+        </td>
+        <td
+          className="right"
+        >
+          676
+        </td>
+        <td
+          className="right"
+        >
+          3,670.68
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "076",
+          "name": "Limes",
+          "revenue": 15708,
+          "sold": 1360,
+        }
+      }
+      key="076"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Limes
+        </td>
+        <td
+          className="right"
+        >
+          1,360
+        </td>
+        <td
+          className="right"
+        >
+          15,708.00
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "081",
+          "name": "Longan",
+          "revenue": 18495.2,
+          "sold": 2440,
+        }
+      }
+      key="081"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Longan
+        </td>
+        <td
+          className="right"
+        >
+          2,440
+        </td>
+        <td
+          className="right"
+        >
+          18,495.20
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "090",
+          "name": "Loquat",
+          "revenue": 5705.68,
+          "sold": 584,
+        }
+      }
+      key="090"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Loquat
+        </td>
+        <td
+          className="right"
+        >
+          584
+        </td>
+        <td
+          className="right"
+        >
+          5,705.68
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "047",
+          "name": "Lychee",
+          "revenue": 20981.66,
+          "sold": 2053,
+        }
+      }
+      key="047"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Lychee
+        </td>
+        <td
+          className="right"
+        >
+          2,053
+        </td>
+        <td
+          className="right"
+        >
+          20,981.66
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "014",
+          "name": "Madarins",
+          "revenue": 4747.4400000000005,
+          "sold": 906,
+        }
+      }
+      key="014"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Madarins
+        </td>
+        <td
+          className="right"
+        >
+          906
+        </td>
+        <td
+          className="right"
+        >
+          4,747.44
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "018",
+          "name": "Malanga",
+          "revenue": 18386.1,
+          "sold": 1395,
+        }
+      }
+      key="018"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Malanga
+        </td>
+        <td
+          className="right"
+        >
+          1,395
+        </td>
+        <td
+          className="right"
+        >
+          18,386.10
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "087",
+          "name": "Mandarin Oranges",
+          "revenue": 12380.4,
+          "sold": 1629,
+        }
+      }
+      key="087"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Mandarin Oranges
+        </td>
+        <td
+          className="right"
+        >
+          1,629
+        </td>
+        <td
+          className="right"
+        >
+          12,380.40
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "061",
+          "name": "Mangos",
+          "revenue": 10977.28,
+          "sold": 2048,
+        }
+      }
+      key="061"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Mangos
+        </td>
+        <td
+          className="right"
+        >
+          2,048
+        </td>
+        <td
+          className="right"
+        >
+          10,977.28
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "042",
+          "name": "Mulberries",
+          "revenue": 9189.960000000001,
+          "sold": 1677,
+        }
+      }
+      key="042"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Mulberries
+        </td>
+        <td
+          className="right"
+        >
+          1,677
+        </td>
+        <td
+          className="right"
+        >
+          9,189.96
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "075",
+          "name": "Mushrooms",
+          "revenue": 12557.84,
+          "sold": 1987,
+        }
+      }
+      key="075"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Mushrooms
+        </td>
+        <td
+          className="right"
+        >
+          1,987
+        </td>
+        <td
+          className="right"
+        >
+          12,557.84
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "104",
+          "name": "Napa",
+          "revenue": 15087.560000000001,
+          "sold": 2174,
+        }
+      }
+      key="104"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Napa
+        </td>
+        <td
+          className="right"
+        >
+          2,174
+        </td>
+        <td
+          className="right"
+        >
+          15,087.56
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "125",
+          "name": "Nectarines",
+          "revenue": 31706.879999999997,
+          "sold": 2208,
+        }
+      }
+      key="125"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Nectarines
+        </td>
+        <td
+          className="right"
+        >
+          2,208
+        </td>
+        <td
+          className="right"
+        >
+          31,706.88
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "086",
+          "name": "Okra",
+          "revenue": 20784.21,
+          "sold": 1543,
+        }
+      }
+      key="086"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Okra
+        </td>
+        <td
+          className="right"
+        >
+          1,543
+        </td>
+        <td
+          className="right"
+        >
+          20,784.21
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "029",
+          "name": "Onion",
+          "revenue": 15888.04,
+          "sold": 2219,
+        }
+      }
+      key="029"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Onion
+        </td>
+        <td
+          className="right"
+        >
+          2,219
+        </td>
+        <td
+          className="right"
+        >
+          15,888.04
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "043",
+          "name": "Oranges",
+          "revenue": 10575.18,
+          "sold": 1199,
+        }
+      }
+      key="043"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Oranges
+        </td>
+        <td
+          className="right"
+        >
+          1,199
+        </td>
+        <td
+          className="right"
+        >
+          10,575.18
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "051",
+          "name": "Papayas",
+          "revenue": 19369.739999999998,
+          "sold": 1482,
+        }
+      }
+      key="051"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Papayas
+        </td>
+        <td
+          className="right"
+        >
+          1,482
+        </td>
+        <td
+          className="right"
+        >
+          19,369.74
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "016",
+          "name": "Parsnip",
+          "revenue": 17594.649999999998,
+          "sold": 1465,
+        }
+      }
+      key="016"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Parsnip
+        </td>
+        <td
+          className="right"
+        >
+          1,465
+        </td>
+        <td
+          className="right"
+        >
+          17,594.65
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "118",
+          "name": "Passion Fruit",
+          "revenue": 21589.92,
+          "sold": 1692,
+        }
+      }
+      key="118"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Passion Fruit
+        </td>
+        <td
+          className="right"
+        >
+          1,692
+        </td>
+        <td
+          className="right"
+        >
+          21,589.92
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "023",
+          "name": "Peaches",
+          "revenue": 18759.18,
+          "sold": 1322,
+        }
+      }
+      key="023"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Peaches
+        </td>
+        <td
+          className="right"
+        >
+          1,322
+        </td>
+        <td
+          className="right"
+        >
+          18,759.18
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "046",
+          "name": "Pears",
+          "revenue": 10329.300000000001,
+          "sold": 1497,
+        }
+      }
+      key="046"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Pears
+        </td>
+        <td
+          className="right"
+        >
+          1,497
+        </td>
+        <td
+          className="right"
+        >
+          10,329.30
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "050",
+          "name": "Peas",
+          "revenue": 17965.6,
+          "sold": 1321,
+        }
+      }
+      key="050"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Peas
+        </td>
+        <td
+          className="right"
+        >
+          1,321
+        </td>
+        <td
+          className="right"
+        >
+          17,965.60
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "093",
+          "name": "Peppers",
+          "revenue": 8838.01,
+          "sold": 1123,
+        }
+      }
+      key="093"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Peppers
+        </td>
+        <td
+          className="right"
+        >
+          1,123
+        </td>
+        <td
+          className="right"
+        >
+          8,838.01
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "024",
+          "name": "Persimmons",
+          "revenue": 24514.18,
+          "sold": 2081,
+        }
+      }
+      key="024"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Persimmons
+        </td>
+        <td
+          className="right"
+        >
+          2,081
+        </td>
+        <td
+          className="right"
+        >
+          24,514.18
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "115",
+          "name": "Pineapple",
+          "revenue": 23462.399999999998,
+          "sold": 2080,
+        }
+      }
+      key="115"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Pineapple
+        </td>
+        <td
+          className="right"
+        >
+          2,080
+        </td>
+        <td
+          className="right"
+        >
+          23,462.40
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "053",
+          "name": "Plantains",
+          "revenue": 9978.9,
+          "sold": 1110,
+        }
+      }
+      key="053"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Plantains
+        </td>
+        <td
+          className="right"
+        >
+          1,110
+        </td>
+        <td
+          className="right"
+        >
+          9,978.90
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "017",
+          "name": "Plums",
+          "revenue": 13314.599999999999,
+          "sold": 1138,
+        }
+      }
+      key="017"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Plums
+        </td>
+        <td
+          className="right"
+        >
+          1,138
+        </td>
+        <td
+          className="right"
+        >
+          13,314.60
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "045",
+          "name": "Pomegranate",
+          "revenue": 13551.09,
+          "sold": 1119,
+        }
+      }
+      key="045"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Pomegranate
+        </td>
+        <td
+          className="right"
+        >
+          1,119
+        </td>
+        <td
+          className="right"
+        >
+          13,551.09
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "127",
+          "name": "Potatoes",
+          "revenue": 10812.54,
+          "sold": 1174,
+        }
+      }
+      key="127"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Potatoes
+        </td>
+        <td
+          className="right"
+        >
+          1,174
+        </td>
+        <td
+          className="right"
+        >
+          10,812.54
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "044",
+          "name": "Prickly Pear",
+          "revenue": 17522.59,
+          "sold": 1201,
+        }
+      }
+      key="044"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Prickly Pear
+        </td>
+        <td
+          className="right"
+        >
+          1,201
+        </td>
+        <td
+          className="right"
+        >
+          17,522.59
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "038",
+          "name": "Prunes",
+          "revenue": 13644.54,
+          "sold": 1666,
+        }
+      }
+      key="038"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Prunes
+        </td>
+        <td
+          className="right"
+        >
+          1,666
+        </td>
+        <td
+          className="right"
+        >
+          13,644.54
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "130",
+          "name": "Pummelo",
+          "revenue": 20429.4,
+          "sold": 1580,
+        }
+      }
+      key="130"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Pummelo
+        </td>
+        <td
+          className="right"
+        >
+          1,580
+        </td>
+        <td
+          className="right"
+        >
+          20,429.40
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "097",
+          "name": "Pumpkin",
+          "revenue": 10547.88,
+          "sold": 1218,
+        }
+      }
+      key="097"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Pumpkin
+        </td>
+        <td
+          className="right"
+        >
+          1,218
+        </td>
+        <td
+          className="right"
+        >
+          10,547.88
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "102",
+          "name": "Quince",
+          "revenue": 15250.34,
+          "sold": 1358,
+        }
+      }
+      key="102"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Quince
+        </td>
+        <td
+          className="right"
+        >
+          1,358
+        </td>
+        <td
+          className="right"
+        >
+          15,250.34
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "112",
+          "name": "Radicchio",
+          "revenue": 20453.27,
+          "sold": 1777,
+        }
+      }
+      key="112"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Radicchio
+        </td>
+        <td
+          className="right"
+        >
+          1,777
+        </td>
+        <td
+          className="right"
+        >
+          20,453.27
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "106",
+          "name": "Radishes",
+          "revenue": 30051.480000000003,
+          "sold": 2246,
+        }
+      }
+      key="106"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Radishes
+        </td>
+        <td
+          className="right"
+        >
+          2,246
+        </td>
+        <td
+          className="right"
+        >
+          30,051.48
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "078",
+          "name": "Raisins",
+          "revenue": 7411.049999999999,
+          "sold": 645,
+        }
+      }
+      key="078"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Raisins
+        </td>
+        <td
+          className="right"
+        >
+          645
+        </td>
+        <td
+          className="right"
+        >
+          7,411.05
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "011",
+          "name": "Raspberries",
+          "revenue": 4318.82,
+          "sold": 586,
+        }
+      }
+      key="011"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Raspberries
+        </td>
+        <td
+          className="right"
+        >
+          586
+        </td>
+        <td
+          className="right"
+        >
+          4,318.82
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "064",
+          "name": "Red Cabbage",
+          "revenue": 12005.599999999999,
+          "sold": 1396,
+        }
+      }
+      key="064"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Red Cabbage
+        </td>
+        <td
+          className="right"
+        >
+          1,396
+        </td>
+        <td
+          className="right"
+        >
+          12,005.60
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "079",
+          "name": "Rhubarb",
+          "revenue": 14905.8,
+          "sold": 1638,
+        }
+      }
+      key="079"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Rhubarb
+        </td>
+        <td
+          className="right"
+        >
+          1,638
+        </td>
+        <td
+          className="right"
+        >
+          14,905.80
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "085",
+          "name": "Romaine Lettuce",
+          "revenue": 32786.28,
+          "sold": 2196,
+        }
+      }
+      key="085"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Romaine Lettuce
+        </td>
+        <td
+          className="right"
+        >
+          2,196
+        </td>
+        <td
+          className="right"
+        >
+          32,786.28
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "095",
+          "name": "Rutabaga",
+          "revenue": 18551.12,
+          "sold": 2198,
+        }
+      }
+      key="095"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Rutabaga
+        </td>
+        <td
+          className="right"
+        >
+          2,198
+        </td>
+        <td
+          className="right"
+        >
+          18,551.12
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "094",
+          "name": "Shallots",
+          "revenue": 6517.17,
+          "sold": 957,
+        }
+      }
+      key="094"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Shallots
+        </td>
+        <td
+          className="right"
+        >
+          957
+        </td>
+        <td
+          className="right"
+        >
+          6,517.17
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "108",
+          "name": "Snow Peas",
+          "revenue": 11989.19,
+          "sold": 1691,
+        }
+      }
+      key="108"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Snow Peas
+        </td>
+        <td
+          className="right"
+        >
+          1,691
+        </td>
+        <td
+          className="right"
+        >
+          11,989.19
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "012",
+          "name": "Spinach",
+          "revenue": 19822.32,
+          "sold": 1596,
+        }
+      }
+      key="012"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Spinach
+        </td>
+        <td
+          className="right"
+        >
+          1,596
+        </td>
+        <td
+          className="right"
+        >
+          19,822.32
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "040",
+          "name": "Sprouts",
+          "revenue": 27061.800000000003,
+          "sold": 1961,
+        }
+      }
+      key="040"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Sprouts
+        </td>
+        <td
+          className="right"
+        >
+          1,961
+        </td>
+        <td
+          className="right"
+        >
+          27,061.80
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "088",
+          "name": "Squash",
+          "revenue": 15080,
+          "sold": 1885,
+        }
+      }
+      key="088"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Squash
+        </td>
+        <td
+          className="right"
+        >
+          1,885
+        </td>
+        <td
+          className="right"
+        >
+          15,080.00
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "063",
+          "name": "Strawberries",
+          "revenue": 11681.460000000001,
+          "sold": 1143,
+        }
+      }
+      key="063"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Strawberries
+        </td>
+        <td
+          className="right"
+        >
+          1,143
+        </td>
+        <td
+          className="right"
+        >
+          11,681.46
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "124",
+          "name": "String Beans",
+          "revenue": 22731.619999999995,
+          "sold": 2426,
+        }
+      }
+      key="124"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          String Beans
+        </td>
+        <td
+          className="right"
+        >
+          2,426
+        </td>
+        <td
+          className="right"
+        >
+          22,731.62
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "128",
+          "name": "Sweet Potato",
+          "revenue": 31680,
+          "sold": 2640,
+        }
+      }
+      key="128"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Sweet Potato
+        </td>
+        <td
+          className="right"
+        >
+          2,640
+        </td>
+        <td
+          className="right"
+        >
+          31,680.00
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "072",
+          "name": "Tangelo",
+          "revenue": 19831.35,
+          "sold": 1717,
+        }
+      }
+      key="072"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Tangelo
+        </td>
+        <td
+          className="right"
+        >
+          1,717
+        </td>
+        <td
+          className="right"
+        >
+          19,831.35
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "052",
+          "name": "Tangerines",
+          "revenue": 29450.24,
+          "sold": 2048,
+        }
+      }
+      key="052"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Tangerines
+        </td>
+        <td
+          className="right"
+        >
+          2,048
+        </td>
+        <td
+          className="right"
+        >
+          29,450.24
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "026",
+          "name": "Tomatillo",
+          "revenue": 9560.460000000001,
+          "sold": 1751,
+        }
+      }
+      key="026"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Tomatillo
+        </td>
+        <td
+          className="right"
+        >
+          1,751
+        </td>
+        <td
+          className="right"
+        >
+          9,560.46
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "113",
+          "name": "Tomato",
+          "revenue": 14517.9,
+          "sold": 1415,
+        }
+      }
+      key="113"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Tomato
+        </td>
+        <td
+          className="right"
+        >
+          1,415
+        </td>
+        <td
+          className="right"
+        >
+          14,517.90
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "121",
+          "name": "Turnip",
+          "revenue": 15564.119999999999,
+          "sold": 1814,
+        }
+      }
+      key="121"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Turnip
+        </td>
+        <td
+          className="right"
+        >
+          1,814
+        </td>
+        <td
+          className="right"
+        >
+          15,564.12
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "049",
+          "name": "Ugli Fruit",
+          "revenue": 10838.1,
+          "sold": 1365,
+        }
+      }
+      key="049"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Ugli Fruit
+        </td>
+        <td
+          className="right"
+        >
+          1,365
+        </td>
+        <td
+          className="right"
+        >
+          10,838.10
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "057",
+          "name": "Water Chestnuts",
+          "revenue": 7857.660000000001,
+          "sold": 1514,
+        }
+      }
+      key="057"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Water Chestnuts
+        </td>
+        <td
+          className="right"
+        >
+          1,514
+        </td>
+        <td
+          className="right"
+        >
+          7,857.66
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "006",
+          "name": "Watercress",
+          "revenue": 13642.140000000001,
+          "sold": 1626,
+        }
+      }
+      key="006"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Watercress
+        </td>
+        <td
+          className="right"
+        >
+          1,626
+        </td>
+        <td
+          className="right"
+        >
+          13,642.14
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "091",
+          "name": "Watermelon",
+          "revenue": 19219.2,
+          "sold": 1760,
+        }
+      }
+      key="091"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Watermelon
+        </td>
+        <td
+          className="right"
+        >
+          1,760
+        </td>
+        <td
+          className="right"
+        >
+          19,219.20
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "132",
+          "name": "Waxed Beans",
+          "revenue": 9119.88,
+          "sold": 1764,
+        }
+      }
+      key="132"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Waxed Beans
+        </td>
+        <td
+          className="right"
+        >
+          1,764
+        </td>
+        <td
+          className="right"
+        >
+          9,119.88
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "089",
+          "name": "Yams",
+          "revenue": 13719.66,
+          "sold": 1822,
+        }
+      }
+      key="089"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Yams
+        </td>
+        <td
+          className="right"
+        >
+          1,822
+        </td>
+        <td
+          className="right"
+        >
+          13,719.66
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "065",
+          "name": "Yellow Squash",
+          "revenue": 23634.520000000004,
+          "sold": 2236,
+        }
+      }
+      key="065"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Yellow Squash
+        </td>
+        <td
+          className="right"
+        >
+          2,236
+        </td>
+        <td
+          className="right"
+        >
+          23,634.52
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "037",
+          "name": "Yuca/Cassava",
+          "revenue": 44490.84,
+          "sold": 2994,
+        }
+      }
+      key="037"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Yuca/Cassava
+        </td>
+        <td
+          className="right"
+        >
+          2,994
+        </td>
+        <td
+          className="right"
+        >
+          44,490.84
+        </td>
+      </tr>
+    </Row>
+    <Row
+      item={
+        Object {
+          "id": "055",
+          "name": "Zucchini Squash",
+          "revenue": 13077.279999999999,
+          "sold": 2209,
+        }
+      }
+      key="055"
+    >
+      <tr>
+        <td
+          className="left"
+        >
+          Zucchini Squash
+        </td>
+        <td
+          className="right"
+        >
+          2,209
+        </td>
+        <td
+          className="right"
+        >
+          13,077.28
+        </td>
+      </tr>
+    </Row>
+  </tbody>
+  <tfoot>
+    <tr>
+      <td
+        className="left"
+      >
+        Total
+      </td>
+      <td
+        className="right"
+      >
+        211,057
+      </td>
+      <td
+        className="right"
+      >
+        2,102,619.44
+      </td>
+    </tr>
+  </tfoot>
+</table>
+`;
